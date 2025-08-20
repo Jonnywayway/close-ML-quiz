@@ -1,3 +1,6 @@
+# Viewing Notebook
+### Just open the [main.ipynb](main.ipynb) file above
+
 # Guide to running notebook
 
 1. Clone/Download the repo 
